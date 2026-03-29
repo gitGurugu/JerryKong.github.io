@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jerry Kong"
-description              : "AI Research Enthusiast | Full-Stack Developer | Mobile GUI Agent · AI Infra · Cloud Native"
+description              : "Researching Human-AI Interaction · Full-Stack Developer · Mobile GUI Agent · LLM Ops · Cloud-Native"
 repository               : "gitGurugu/github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jerry Kong"
   avatar           : "images/JerryKong.png"
-  bio              : "Student, Huawei Intelligent Base Class, Computer Science and Technology, Central China Normal University"
+  bio              : "Undergrad · Huawei Intelligent Base Class · CS · CCNU"
   location         : "Wuhan, Hubei, China"
-  employer         : "Central China Normal University"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jialekong2004@mails.ccnu.edu.cn"
