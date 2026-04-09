@@ -56,3 +56,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+## Recent Blog Posts
+{% assign recent_posts = site.posts | slice: 0, 3 %}
+{% for post in recent_posts %}
+- [{{ post.title }}]({{ post.url }}) · {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
+- [查看全部](/blog/)
